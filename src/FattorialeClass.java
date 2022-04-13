@@ -1,10 +1,14 @@
 /**
  * 
  * @author marcoCor
- * @version 1.0
+ * @version 2.0
  *
  */
 public class FattorialeClass {
+	
+/**
+ * costruttore
+ */
 	
 	public FattorialeClass() {}
 	
