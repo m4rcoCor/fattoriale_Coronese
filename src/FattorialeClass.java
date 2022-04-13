@@ -1,7 +1,7 @@
 /**
  * 
  * @author marcoCor
- * @version 2.0
+ * @version 3.0
  *
  */
 public class FattorialeClass {
@@ -17,7 +17,7 @@ public class FattorialeClass {
 		
 		fatt=1;
 		
-		for (i=1; i<n; i++) //corretto <=
+		for (i=1; i<=n; i++) 
 		{
 			fatt=fatt*i;
 		}
